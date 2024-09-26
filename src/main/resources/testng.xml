@@ -14,7 +14,7 @@
         <!--测试类-->
         <classes>
             <!--单个测试类定义-->
-            <class name="com.lilith.cases.LoginCase"></class>
+            <class name="com.lilith.cases.HomePageCase"></class>
         </classes>
     </test>
     <parameter name="browser" value="firefox"></parameter>
